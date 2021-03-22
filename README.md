@@ -1,2 +1,2 @@
-# scratch.mit.edu/projects/499068248/
+# https://scratch.mit.edu/mystuff/
 Algoritmo do visualG e scractch
